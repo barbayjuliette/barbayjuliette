@@ -4,9 +4,9 @@
 <br>
 
 - 📫 Reach me here: **barbayjuliette95@gmail.com**
-- :briefcase: Business Analyst turned Web Developer
-- :book: Learned web development with [Le Wagon](https://www.lewagon.com/)
-- :mount_fuji: Besides coding, I enjoy hiking, rock climbing, board games, reading and rollerblading.
+- 👩🏼‍💻 Business Analyst turned Web Developer
+- 📚 Learned web development with [Le Wagon](https://www.lewagon.com/)
+- 🏔️ Besides coding, I enjoy hiking, rock climbing, board games, reading and rollerblading.
 
 
 <h3 align="left">Connect with me:</h3>
