@@ -7,6 +7,7 @@
 - 👩🏼‍💻 Business Analyst turned Web Developer
 - 📚 Learned web development with [Le Wagon](https://www.lewagon.com/)
 - 🏔️ Besides coding, I enjoy hiking, rock climbing, board games, reading and rollerblading.
+- 📖 Currently learning React and working on a project with Rails 
 
 
 <h3 align="left">Connect with me:</h3>
